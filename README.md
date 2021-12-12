@@ -1,4 +1,4 @@
-# SPR_Chinese
+# Self_paced_reading_Chinese
 
 Created in 2020. Wrote on PCIbex (https://doc.pcibex.net/).
 
